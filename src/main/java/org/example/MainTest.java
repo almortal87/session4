@@ -13,6 +13,8 @@ import org.testng.annotations.Test;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class MainTest {
 
+
+
     private WebDriver driver;
 
     @BeforeMethod
